@@ -8,9 +8,9 @@ https://visual-vode-generator.xgqfrms.xyz
 
 ## React Version
 
-[React Version](https://github.com/Visual-Code-Generator/tree/react-version/README.md)
+[React Version](https://github.com/Visual-Code-Generator/tree/react-version)
 
 ## Vue Version
 
-[Vue Version](https://github.com/Visual-Code-Generator/tree/vue-version/README.md)
+[Vue Version](https://github.com/Visual-Code-Generator/tree/vue-version)
 
