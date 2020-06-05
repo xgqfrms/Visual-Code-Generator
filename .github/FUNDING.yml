@@ -2,11 +2,11 @@
 
 github: [xgqfrms]
 patreon: xgqfrms
-open_collective: # Replace with a single Open Collective username
-ko_fi: # Replace with a single Ko-fi username
-tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
-community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
-liberapay: # Replace with a single Liberapay username
-issuehunt: # Replace with a single IssueHunt username
-otechie: # Replace with a single Otechie username
+open_collective: xgqfrms
+ko_fi: xgqfrms
+tidelift: npm/visual-vode-generator
+community_bridge: Visual-Code-Generator
+liberapay: xgqfrms
+issuehunt: xgqfrms
+otechie: xgqfrms
 custom: ['https://visual-vode-generator.xgqfrms.xyz/']
